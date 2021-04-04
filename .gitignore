@@ -3,3 +3,4 @@ DATASET
 VECTORIZER
 .ipynb_checkpoints
 stock.ipynb
+XGBOOST_MODEL
